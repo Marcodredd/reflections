@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 This will eliminate conflicts between the remote and the local copy
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Some collaborative software are out there but Git and Github makes it easier
+
